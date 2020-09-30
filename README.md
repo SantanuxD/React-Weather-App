@@ -1,5 +1,5 @@
 ## React Weather App ☀️🥶
-A simple react app that displays tenperature of an area entered.
+A simple react app that displays temperature of an area entered.
 
 ## API Source 💬
 <a href="https://openweathermap.org/api"><i>https://openweathermap.org/api</i></a>
